@@ -1,0 +1,16 @@
+.container{
+  padding-top: 4rem;
+}
+
+.btn{
+  width: 4rem;
+}
+
+.row{
+  padding-bottom: 1rem;
+}
+
+.gif{
+  padding-top: 1.5rem;
+  visibility: hidden;
+}
