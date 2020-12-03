@@ -2,3 +2,4 @@
 
 Use this site.
 
+https://ingsold170895.github.io/never_fail/
